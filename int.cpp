@@ -2,7 +2,7 @@
 int main(void)
 {
 	/*int *p=NULL;
-	printf("%p\n",p); 
+	printf("%p\n",p); ////
 
 	
 	int i=8;
